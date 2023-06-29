@@ -1,13 +1,13 @@
 [
     {
         "_id": "1",
-        "chef_pic": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "chefName": "MD. Shawan Kabir",
+        "chef_Picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chef_Name": "MD. Shawan Kabir",
         "short_bio": "MD. shawan Kabir is one of the popular chefs in Bangladesh, with over 18 years of experience in Cooking World.",
         "likes": 2500,
-        "num_recipes": 12,
         "experience": 18,
-        "recipes": [
+        "number_of_recipes": 12,
+        "food_recipes": [
             {
                 "_id": "1",
                 "recipe_name": "Beef Stir-Fry",
