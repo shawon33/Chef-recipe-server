@@ -11,7 +11,7 @@
             {
                 "_id": "1",
                 "recipe_name": "Beef Stir-Fry",
-                "picture": "https://images.pexels.com/photos/2983099/pexels-photo-2983099.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "recipe_img": "https://images.pexels.com/photos/2983099/pexels-photo-2983099.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "rating": 4.5,
                 "ingredients": [
                     "1 lb beef sirloin",
@@ -28,7 +28,7 @@
             {
                 "_id": "2",
                 "recipe_name": "Beef Tacos",
-                "picture": "https://images.pexels.com/photos/5454019/pexels-photo-5454019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipe_img": "https://images.pexels.com/photos/5454019/pexels-photo-5454019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
                 "rating": 4,
                 "ingredients": [
                     "1 lb ground beef",
@@ -46,7 +46,7 @@
             {
                 "_id": "3",
                 "recipe_name": "Beef Stew",
-                "picture": "https://images.pexels.com/photos/16270208/pexels-photo-16270208/free-photo-of-roasted-meat-on-the-plate.jpeg?auto=compress&cs=tinysrgb&w=1600",
+                "recipe_img": "https://images.pexels.com/photos/16270208/pexels-photo-16270208/free-photo-of-roasted-meat-on-the-plate.jpeg?auto=compress&cs=tinysrgb&w=1600",
                 "rating": 4,
                 "ingredients": [
                     "2 lbs beef stew meat, cubed",
